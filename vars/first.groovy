@@ -2,6 +2,7 @@
 
 def call(){
     echo "calling hello world"
+    helloWorld()
 }
 
 def helloWorld() {
