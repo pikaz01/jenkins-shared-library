@@ -1,3 +1,3 @@
 def hello(){
-  echo "hello params.$name"
+  echo "hello $name"
 }
